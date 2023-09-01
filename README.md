@@ -51,7 +51,7 @@ The software allows visual enhancements and analysis of micrograph images.
 
 Author: Emmanuel Bamidele
 
-License: MIT
+License: Apache 2.0
 
 Feedback and Contributions
 
