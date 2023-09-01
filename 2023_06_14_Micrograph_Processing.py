@@ -1,6 +1,6 @@
 """
 Author: Emmanuel Bamidele
-License: MIT
+License: Apache 2.0
 """
 
 import tkinter as tk
